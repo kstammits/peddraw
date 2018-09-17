@@ -1,0 +1,15 @@
+
+#These are inches:
+PDF_WIDTH=8
+# if you need more space (smaller words) increase both numbers.
+PDF_HEIGHT=6
+
+
+LEGEND_POSITION="topright"
+
+
+# could scale everything up too:
+PDF_WIDTH = PDF_WIDTH * 1.00
+PDF_HEIGHT = PDF_HEIGHT * 1.00
+
+
